@@ -11,7 +11,7 @@ Kadang ngulik celah, kadang iseng scan, kadang juga… eh, nyenggol origin serve
 > Endpoint: `/login`  
 > Tools: `nmap + proxychains`
 
-🎯 Ceritanya iseng enum subdomain, eh taunya ngehit **origin langsung**, bukan ke Cloudflare-nya.  
+🎯 Ceritanya iseng enum database, eh taunya ngehit **origin langsung**, bukan ke Cloudflare-nya.  
 Dan... BOOM! Pas dibuka di browser: **"host unreachable"**, tapi Cloudflare-nya masih standby 🤡  
 Auto ngakak, tapi juga langsung sadar:  
 **"Oops, ini kayaknya udah nyentuh titik sensitif."**
