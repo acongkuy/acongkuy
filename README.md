@@ -1,64 +1,30 @@
-# 💻✨ Selamat Datang di Playground Ngoprek Web!
+# 👾 Si Grayhat: Si Pemburu Celah & Master Nge-acak Sistem
 
-Yo! Ini tempat gue ngumpulin hasil utak-atik dunia *cybersecurity*, terutama di bagian **web security**.  
-Kadang ngulik celah, kadang iseng scan, kadang juga… eh, nyenggol origin server sampe down 🤭 (seriusan ini pernah kejadian, nanti gue ceritain 👇)
+Yo, gue si **Grayhat Hacker** — bukan cuma tukang ngulik kode, tapi juga petualang digital yang doyan nyari celah, nge-bypass aturan, dan ngacak-ngacak sistem tanpa bikin kerusakan parah (hanya sedikit aja).
 
----
+- 🕵️‍♂️ **Keahlian:**  
+  Ngetes keamanan, bikin payload nyeleneh, fuzzing random, nge-bypass WAF, dan nemuin bug yang sembunyi di balik layar.  
+  Bahasa andalan? Python 🐍, JavaScript ⚡, Bash 🖥️ — pokoknya yang penting bisa ngulik!
 
-## 🔍 Cerita Nyata dari Lapangan
+- 🎯 **Misi:**  
+  Ngacak sistem, bongkar rahasia, dan bantu bikin dunia digital lebih aman — tapi tetep santuy dan enjoy prosesnya.  
+  Kadang gue di garis abu-abu, soalnya hidup juga nggak selalu hitam putih.
 
-> Target: subdomain sekolah  
-> Endpoint: `/login`  
-> Tools: `nmap + proxychains`
+- 💡 **Hobi:**  
+  Nge-bypass proteksi WAF yang paling ribet, bikin payload yang bikin pusing, dan ngulik server yang dikira aman banget.  
+  Gagal? Santai, itu cuma bahan belajar!
 
-🎯 Ceritanya iseng enum database, eh taunya ngehit **origin langsung**, bukan ke Cloudflare-nya.  
-Dan... BOOM! Pas dibuka di browser: **"host unreachable"**, tapi Cloudflare-nya masih standby 🤡  
-Auto ngakak, tapi juga langsung sadar:  
-**"Oops, ini kayaknya udah nyentuh titik sensitif."**
+- ⚔️ **Peralatan:**  
+  Burp Suite versi gratisan, script Python custom, proxy, plus otak kreatif yang selalu ngejalanin misi.
 
-Tenang, udah gue laporin ke pihak yang bersangkutan baik-baik. Edukatif, bukan eksploitasi 🙌
-
----
-
-## 🧪 Mainan Favorit
-
-| Tools      | Kegunaan                           |
-|------------|------------------------------------|
-| 🔎 Burp     | Intercept traffic web             |
-| 🐍 sqlmap   | Cari SQL Injection otomatis        |
-| 🎯 Nmap     | Port scanning + service detection |
-| 💥 XSStrike | Testing XSS auto payload          |
-| 🌐 Curl     | Intip response dan header         |
-| 🧠 Amass    | Subdomain hunter                   |
-| 🧵 Slowloris| Simulasi DoS ringan                |
-| ⚙️ Rapidscan| Quick scan multiple tools          |
-
-Gue juga suka oprek `bash` atau bikin skrip kecil buat bantu enum. Simple tapi efektif 😎
+- 🌐 **Kenapa Grayhat?**  
+  Karena di dunia digital, kadang kita harus jadi si nakal yang baik hati — ngacak sedikit buat bikin semuanya lebih terang.
 
 ---
 
-## 📁 Isi Playground Ini
-
-- 🐞 Laporan kerentanan dari bug bounty & audit manual  
-- 🔬 Catatan testing, scanning, dan analisa web security  
-- ⚙️ Koleksi tools & snippet oprekan pribadi  
-- 🚧 Kadang random eksperimen, jadi harap maklum kalau berantakan
+*“Buat gue, hacking itu seni. Kode adalah kuas, dan celah adalah kanvasnya.”*
 
 ---
 
-## 🌱 Misi
-
-Belajar sambil ngeksplor, bukan ngehancurin.  
-Bantu edukasi soal keamanan aplikasi web, satu bug, satu laporan, satu tawa pada waktunya 😄  
-Karena jadi hacker tuh gak harus dark mode terus. Kadang *debugging sambil ngopi juga seni.*
-
----
-
-> “Kadang yang bikin down bukan serangan, tapi rasa penasaran berlebihan 😅”
-
-Thanks udah mampir — kalo nyasar ke sini dan punya cerita atau mau diskusi, drop aja issues atau fork repo ini.
-
-Stay safe & keep hacking (the legal way)! 🛡️✨
-
----
-Profil Hackerone aku: [![HackerOne](https://img.shields.io/badge/HackerOne-Profile-yellow?logo=hackerone&logoColor=yellow)](https://hackerone.com/chunsky)
+Mau ngobrol, kolaborasi, atau tukeran trik? Jangan sungkan, langsung gas aja!  
+Tetap jaga etika, tetap keren. 🚀🔥
