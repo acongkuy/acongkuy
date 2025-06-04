@@ -59,4 +59,6 @@ Karena jadi hacker tuh gak harus dark mode terus. Kadang *debugging sambil ngopi
 Thanks udah mampir — kalo nyasar ke sini dan punya cerita atau mau diskusi, drop aja issues atau fork repo ini.
 
 Stay safe & keep hacking (the legal way)! 🛡️✨
-[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-black?logo=hackerone&logoColor=white)](https://hackerone.com/chunsky)
+
+---
+Profil Hackerone aku: [![HackerOne](https://img.shields.io/badge/HackerOne-Profile-yellow?logo=hackerone&logoColor=yellow)](https://hackerone.com/chunsky)
